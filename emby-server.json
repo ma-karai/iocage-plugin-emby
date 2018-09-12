@@ -1,6 +1,6 @@
 {
-  "name": "emby-server",
-  "release": "11.1-RELEASE",
+  "name": "emby-server-beta",
+  "release": "11.2-RELEASE",
   "artifact": "https://github.com/MediaBrowser/iocage-amd64.git",
   "pkgs": [
     "lang/mono",
@@ -20,7 +20,7 @@
     "multimedia/libx264",
     "devel/libzvbi"
   ],
-  "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/latest",
+  "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/quarterly",
   "fingerprints": {
     "plugin-default": [{
       "function": "sha256",
