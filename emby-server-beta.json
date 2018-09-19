@@ -1,5 +1,5 @@
 {
-  "name": "emby-server-beta43",
+  "name": "emby-server-stable",
   "release": "11.2-RELEASE",
   "artifact": "https://github.com/bott0r/iocage-amd64.git",
   "pkgs": [
