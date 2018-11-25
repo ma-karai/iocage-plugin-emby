@@ -18,6 +18,7 @@
     "audio/libvorbis",
     "graphics/webp",
     "multimedia/libx264",
+    "graphics/libraw",
     "devel/libzvbi"
   ],
   "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/quarterly",
