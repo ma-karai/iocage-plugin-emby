@@ -19,7 +19,8 @@
     "graphics/webp",
     "multimedia/libx264",
     "graphics/libraw",
-    "devel/libzvbi"
+    "devel/libzvbi",
+    "lang/gcc7"
   ],
   "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/quarterly",
   "fingerprints": {
