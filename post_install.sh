@@ -3,7 +3,8 @@
 # Install the binary package
 #pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/3.5.3.0/emby-server-freebsd_3.5.3.0_amd64.txz
 #pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/3.6.0.75/emby-server-freebsd_3.6.0.75_amd64.txz
-pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/3.6.0.84/emby-server-freebsd_3.6.0.84_amd64.txz
+#pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/3.6.0.84/emby-server-freebsd_3.6.0.84_amd64.txz
+pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/4.0.0.0/emby-server-freebsd_4.0.0.0_amd64.txz
 
 # Enable the service
 sysrc -f /etc/rc.conf emby_server_enable="YES"
