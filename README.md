@@ -1,10 +1,8 @@
-Emby Server iocage stable and beta installation to install follow
-
-Simple Installation
+Emby Server for FreeNAS
 
 Requires FreeNAS 11.2 Stable
+
 This Installation method will create a Jail that is fully configurable via the FreeNAS GUI
- 
 
 LATEST STABLE (4002)
 
