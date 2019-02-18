@@ -4,7 +4,7 @@ Requires FreeNAS 11.2 Stable
 
 This Installation method will create a Jail that is fully configurable via the FreeNAS GUI
 
-LATEST STABLE (4010)
+LATEST STABLE (4020)
 
     cd /tmp
     wget https://raw.githubusercontent.com/bott0r/iocage-plugin-emby/master/emby-server.json
