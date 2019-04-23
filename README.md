@@ -20,7 +20,7 @@ LATEST STABLE (4.2.0.1)
 
 
 
-Deprecuated LATEST BETA (4.1.0.10)
+Depreciated LATEST BETA (4.1.0.10)
 
     cd /tmp
     wget https://raw.githubusercontent.com/bott0r/iocage-plugin-emby/beta/emby-server-beta.json
