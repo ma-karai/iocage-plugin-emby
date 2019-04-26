@@ -7,7 +7,7 @@ This Installation method will create a Jail that is fully configurable via the F
 LATEST STABLE (4.2.0.1)
 
     cd /tmp
-    wget https://raw.githubusercontent.com/bott0r/iocage-plugin-emby/master/emby-server.json
+    wget https://raw.githubusercontent.com/ma-karai/iocage-plugin-emby/master/emby-server.json
     iocage fetch -P dhcp=on vnet=on bpf=yes allow_raw_sockets=1 -n emby-server.json --branch 'master' 
 
 
@@ -23,5 +23,5 @@ LATEST STABLE (4.2.0.1)
 Depreciated LATEST BETA (4.1.0.10)
 
     cd /tmp
-    wget https://raw.githubusercontent.com/bott0r/iocage-plugin-emby/beta/emby-server-beta.json
+    wget https://raw.githubusercontent.com/ma-karai/iocage-plugin-emby/beta/emby-server-beta.json
     iocage fetch -P dhcp=on vnet=on bpf=yes allow_raw_sockets=1 -n emby-server-beta.json --branch 'beta'  
