@@ -1,7 +1,7 @@
 {
   "name": "emby-server",
   "release": "11.2-RELEASE",
-  "artifact": "https://github.com/bott0r/iocage-plugin-emby.git",
+  "artifact": "https://github.com/ma-karai/iocage-plugin-emby.git",
   "pkgs": [
     "graphics/ImageMagick6",
     "lang/mono",
