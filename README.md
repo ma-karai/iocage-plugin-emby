@@ -11,7 +11,7 @@ LATEST STABLE (4.0.2.0)
     iocage fetch -P dhcp=on vnet=on bpf=yes allow_raw_sockets=1 -n emby-server.json --branch 'master' 
 
 
-LATEST BETA (4.1.0.10)
+LATEST BETA (4.2.0.5-beta)
 
     cd /tmp
     wget https://raw.githubusercontent.com/ma-karai/iocage-plugin-emby/beta/emby-server-beta.json
