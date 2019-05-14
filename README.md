@@ -1,8 +1,10 @@
 Emby Server for FreeNAS
 
-Requires FreeNAS 11.2 Stable
+Requires FreeNAS 11.2
 
 This Installation method will create a Jail that is fully configurable via the FreeNAS GUI
+
+From the FreeNas CLI (shell)
 
 LATEST STABLE (4.2.0.1)
 
