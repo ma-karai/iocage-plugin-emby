@@ -6,7 +6,7 @@ This Installation method will create a Jail that is fully configurable via the F
 
 From the FreeNas CLI (shell)
 
-LATEST STABLE (4.2.0.1)
+LATEST STABLE (4.1.1.0)
 
     cd /tmp
     wget https://raw.githubusercontent.com/ma-karai/iocage-plugin-emby/master/emby-server.json
