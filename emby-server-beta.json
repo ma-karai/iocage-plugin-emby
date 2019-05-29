@@ -5,6 +5,7 @@
   "pkgs": [
     "lang/mono",
     "graphics/ImageMagick6",
+    "multimedia/libvpx", 
     "multimedia/libass",
     "x11-fonts/fontconfig",
     "print/freetype2",
