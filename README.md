@@ -4,7 +4,7 @@ Requires FreeNAS 11.2
 
 This Installation method will create a Jail that is fully configurable via the FreeNAS GUI
 
-LATEST BETA (4.2.0.5-beta)
+LATEST BETA (4.2.0.10-beta)
 
     cd /tmp
     wget https://raw.githubusercontent.com/ma-karai/iocage-plugin-emby/beta/emby-server-beta.json
