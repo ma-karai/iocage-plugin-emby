@@ -1,11 +1,9 @@
 {
-  "name": "emby-server-beta-42024",
+  "name": "emby-server-beta",
   "release": "11.2-RELEASE",
   "artifact": "https://github.com/ma-karai/iocage-plugin-emby.git",
   "pkgs": [
     "lang/mono",
-    "graphics/ImageMagick6",
-    "multimedia/libvpx", 
     "multimedia/libass",
     "x11-fonts/fontconfig",
     "print/freetype2",
@@ -17,11 +15,13 @@
     "databases/sqlite3",
     "multimedia/libtheora",
     "multimedia/libva",
+    "multimedia/libvpx",  
     "audio/libvorbis",
     "graphics/webp",
     "multimedia/libx264",
+    "devel/libzvbi",
     "graphics/libraw",
-    "devel/libzvbi"
+    "graphics/ImageMagick6"
   ],
   "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/quarterly",
   "fingerprints": {
