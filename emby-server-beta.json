@@ -19,6 +19,7 @@
     "audio/libvorbis",
     "graphics/webp",
     "multimedia/libx264",
+    "multimedia/x265",
     "devel/libzvbi",
     "graphics/libraw",
     "graphics/ImageMagick6"
