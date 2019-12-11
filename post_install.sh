@@ -6,7 +6,7 @@
 #pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/4.1.0.10/emby-server-freebsd_4.1.0.10_amd64.txz
 #https://github.com/MediaBrowser/Emby.Releases/releases/download/4.3.0.15/emby-server-freebsd11_4.3.0.15_amd64.txz
 
-pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/4.3.0.17/emby-server-freebsd11_4.3.0.17_amd64.txz
+pkg add --force https://github.com/MediaBrowser/Emby.Releases/releases/download/4.4.0.1/emby-server-freebsd12_4.4.0.1_amd64.txz
 
 # Enable the service
 sysrc -f /etc/rc.conf emby_server_enable="YES"
