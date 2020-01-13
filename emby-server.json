@@ -3,7 +3,6 @@
   "release": "11.2-RELEASE",
   "artifact": "https://github.com/ma-karai/iocage-plugin-emby.git",
   "pkgs": [
-    "graphics/ImageMagick6",
     "lang/mono",
     "multimedia/libass",
     "x11-fonts/fontconfig",
@@ -16,11 +15,14 @@
     "databases/sqlite3",
     "multimedia/libtheora",
     "multimedia/libva",
+    "multimedia/libvpx",  
     "audio/libvorbis",
     "graphics/webp",
     "multimedia/libx264",
+    "multimedia/x265",
+    "devel/libzvbi",
     "graphics/libraw",
-    "devel/libzvbi"
+    "graphics/ImageMagick6"
   ],
   "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/quarterly",
   "fingerprints": {
