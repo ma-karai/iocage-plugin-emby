@@ -11,7 +11,7 @@
     "security/gnutls",
     "converters/iconv",
     "audio/opus",
-    "net/samba48",
+    "net/samba410",
     "databases/sqlite3",
     "multimedia/libtheora",
     "multimedia/libva",
