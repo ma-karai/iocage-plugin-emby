@@ -20,6 +20,7 @@
     "graphics/webp",
     "multimedia/libx264",
     "multimedia/x265",
+    "multimedia/dav1",
     "devel/libzvbi",
     "graphics/libraw",
     "graphics/ImageMagick6"
