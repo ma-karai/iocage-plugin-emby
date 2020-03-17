@@ -1,4 +1,4 @@
-Emby Server for FreeNAS 11.2 ONLY (WILL NOT WORK ON 11.3)
+# Emby Server for FreeNAS 11.2 ONLY (WILL NOT WORK ON 11.3)
 
 Requires FreeNAS 11.2
 
