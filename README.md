@@ -1,7 +1,6 @@
-# Emby Server for FreeNAS 11.2 ONLY
-## (WILL NOT WORK ON 11.3)
+# Emby Server for FreeNAS 11.3 ONLY
 
-Requires FreeNAS 11.2
+Requires FreeNAS 11.3
 
 This Installation method will create a Jail that is fully configurable via the FreeNAS GUI
 
