@@ -1,7 +1,10 @@
 {
   "name": "emby-server-beta",
-  "release": "11.2-RELEASE",
+  "release": "11.3-RELEASE",
   "artifact": "https://github.com/ma-karai/iocage-plugin-emby.git",
+  "properties": {
+        "dhcp": 1
+    },
   "pkgs": [
     "lang/mono",
     "multimedia/libass",
@@ -27,10 +30,13 @@
   ],
   "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/latest",
   "fingerprints": {
-    "plugin-default": [{
-      "function": "sha256",
-      "fingerprint": "b0170035af3acc5f3f3ae1859dc717101b4e6c1d0a794ad554928ca0cbb2f438"
-    }]
-  },
-  "official": false
+        "iocage-plugins": [
+            {
+                "function": "sha256",
+                "fingerprint": "b0170035af3acc5f3f3ae1859dc717101b4e6c1d0a794ad554928ca0cbb2f438"
+            }
+        ]
+    },
+    "revision": "0",
+    "official": false
 }
